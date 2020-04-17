@@ -1,0 +1,15 @@
+C:\Dev\MainThreadDemo\MainThreadDemo\MainThreadDemo\bin\Debug\netstandard2.0\MainThreadDemo.deps.json
+C:\Dev\MainThreadDemo\MainThreadDemo\MainThreadDemo\bin\Debug\netstandard2.0\MainThreadDemo.dll
+C:\Dev\MainThreadDemo\MainThreadDemo\MainThreadDemo\bin\Debug\netstandard2.0\ref\MainThreadDemo.dll
+C:\Dev\MainThreadDemo\MainThreadDemo\MainThreadDemo\bin\Debug\netstandard2.0\MainThreadDemo.pdb
+C:\Dev\MainThreadDemo\MainThreadDemo\MainThreadDemo\obj\Debug\netstandard2.0\MainThreadDemo.csprojAssemblyReference.cache
+C:\Dev\MainThreadDemo\MainThreadDemo\MainThreadDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Dev\MainThreadDemo\MainThreadDemo\MainThreadDemo\obj\Debug\netstandard2.0\Pages\MasterTabbedPage.xaml.g.cs
+C:\Dev\MainThreadDemo\MainThreadDemo\MainThreadDemo\obj\Debug\netstandard2.0\MainThreadDemo.AssemblyInfoInputs.cache
+C:\Dev\MainThreadDemo\MainThreadDemo\MainThreadDemo\obj\Debug\netstandard2.0\MainThreadDemo.AssemblyInfo.cs
+C:\Dev\MainThreadDemo\MainThreadDemo\MainThreadDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Dev\MainThreadDemo\MainThreadDemo\MainThreadDemo\obj\Debug\netstandard2.0\MainThreadDemo.dll
+C:\Dev\MainThreadDemo\MainThreadDemo\MainThreadDemo\obj\Debug\netstandard2.0\ref\MainThreadDemo.dll
+C:\Dev\MainThreadDemo\MainThreadDemo\MainThreadDemo\obj\Debug\netstandard2.0\MainThreadDemo.pdb
+C:\Dev\MainThreadDemo\MainThreadDemo\MainThreadDemo\obj\Debug\netstandard2.0\Pages\GetMainThreadSynchronizationContextAsync.xaml.g.cs
+C:\Dev\MainThreadDemo\MainThreadDemo\MainThreadDemo\obj\Debug\netstandard2.0\Pages\InvokeOnMainThreadPage.xaml.g.cs

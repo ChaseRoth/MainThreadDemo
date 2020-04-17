@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="MainThreadDemo.App">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Style x:Key="CenteredView" TargetType="View">
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="Margin" Value="0,50"/>
+            </Style>
+            <!-- Style for header labels -->
+            <Style x:Key="ExampleHeaderLabel" TargetType="Label" BasedOn="{StaticResource CenteredView}">
+                <Setter Property="FontSize" Value="Large"/>
+            </Style>
+            <Style x:Key="DataLabel" TargetType="Label" BasedOn="{StaticResource CenteredView}">
+                <Setter Property="FontSize" Value="Body"/>
+            </Style>
+            <Style x:Key="StartBtn" TargetType="Button" BasedOn="{StaticResource CenteredView}">
+                <Setter Property="Text" Value="Start"/>
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
